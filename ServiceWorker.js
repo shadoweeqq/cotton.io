@@ -1,9 +1,9 @@
 const cacheName = "shadoweeq-Cotton.io-0.1";
 const contentToCache = [
-    "Build/Cotton.io 0.1.1 WEB.loader.js",
-    "Build/Cotton.io 0.1.1 WEB.framework.js",
-    "Build/Cotton.io 0.1.1 WEB.data",
-    "Build/Cotton.io 0.1.1 WEB.wasm",
+    "Build/Cotton.io 0.1.2 WEB.loader.js",
+    "Build/Cotton.io 0.1.2 WEB.framework.js",
+    "Build/Cotton.io 0.1.2 WEB.data",
+    "Build/Cotton.io 0.1.2 WEB.wasm",
     "TemplateData/style.css"
 
 ];
